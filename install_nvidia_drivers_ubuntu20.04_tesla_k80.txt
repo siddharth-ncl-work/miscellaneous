@@ -1,0 +1,18 @@
+# http://www.nvidia.com/download/driverResults.aspx/117079/en-us
+wget https://us.download.nvidia.com/tesla/450.80.02/nvidia-driver-local-repo-ubuntu2004-450.80.02_1.0-1_amd64.deb
+sudo dpkg -i nvidia-driver-local-repo-ubuntu2004-450.80.02_1.0-1_amd64.deb
+sudo apt-get update
+sudo apt-get -y install cuda-drivers
+
+echo "Reboot required."
+
+Tensorflow GPU Installation Made Easy: Use conda instead of pip:
+https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc
+
+Get a list of available GPU
+tensorflow-1.x:
+from tensorflow.python.client import device_lib
+def get_available_gpus():
+    local_device_protos = device_lib.list_local_devices()
+    return [x.name for x in local_device_protos if x.device_type == 'GPU']
+get_available_gpus()

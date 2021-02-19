@@ -1,0 +1,3 @@
+  2* (100 +   2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))

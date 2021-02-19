@@ -1,0 +1,15 @@
+https://www.thegeekdiary.com/centos-rhel-iptables-troubleshooting-guide/
+
+https://stackoverflow.com/questions/19034542/how-to-open-port-in-centos
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-basic-iptables-firewall-on-centos-6
+
+https://www.basezap.com/open-close-ports-centos-6-7/
+
+Rough Steps:
+1. iptables -F
+2. service iptables save
+3. iptables -L
+4. service iptables restart
+5. service iptables status
+6. maybe reboot and repeat some or all of the above steps

@@ -1,0 +1,200 @@
+################################
+
+TRY-1. try cog = ring + track
+
+###################################
+
+TRY-2. Rotation axis = straight line through O-O
+
+#################################
+CHECK-1
+two things to check
+i. get data for case_1 (5. 5. molecular_rotor_b3lyp_with_solvent.md, low temp)
+ii. Dihedral angle distorsion for case_1 without counter ions
+
+Reason behind 1. we worst result with crude method and without CI not solvent, then we get better results with crude method but with CI not solvent, the expectation is we might get better results with CI and with solvent.
+
+Reason behind 2. Data is itself might be crappy, distorted then whatever method you use you cannot get better results (case_1,without counter ions)
+
+###################################
+
+TRY-3. improved curde method-1
+[[[all 3 < 2A
+C close to Ring COM]]]
+
+i. find com of the ring
+ii. find track atom closest to ring COM (atom 0)
+iii. go two atoms froward and two atoms backwards from atom 0 (atom A,atom B) (ie. 2nd closest atom) 
+iv. rotation axis passes though atom A and atom B
+v. identify phenyl carbons.
+  -find carbon atoms from which 3 carbon atoms are less than 2A
+  -all 3 < 2A
+  -find phenyl carbon close to Ring COM (atom P)
+vi. atom A=close to  atom P
+vii. atom B=far from atom P
+viii. rotation axis= from atom A to atom B
+
+
+**ISSUE WITH TRY#3: case_2
+/home/vanka/ruchi/molecular_motor/case_2/david_and_david_1_merged/scr_merged
+frame_no = 20000
+
+/home/vanka/ruchi/molecular_motor/case_2/david_with_solvent/merged_scr_1_to_10
+frame_no = 10000,20000
+-opposite direction
+-ring over phenyl ring
+
+solution: Taking farthest phenyl
+/home/vanka/ruchi/molecular_motor/case_2/david_with_solvent/merged_scr_1_to_10
+frame_no = 30000 (wrong direction)
+frame_no = 10000 (atoms from phenyl ring)
+
+####################################
+
+TRY-4. improved crude method-2
+
+if ring is over phenyl ring
+the choose phenyl ring carbons
+
+or else
+1) 2 forward 2 back
+e
+2) 1 forward 1 back
+3) 1 forward 2 back
+4) 1 forward 3 back
+5) 2 forward 3 back
+6) 3 forward 3 back
+
+
+4 carbons
+2 carbons of phenyl.
+dist < 1.5 A
+
+[ISSUE WITH TRY#4]
+/home/vanka/ruchi/molecular_motor/case_2/david_with_solvent/merged_scr_1_to_10
+frame_no = 30000 (wrong direction)
+
+####################################
+
+TRY-5. improved crude method-3
+
+IF improved crude method-2 did not work 
+THEN use 2nd frame for the axis calculation
+
+#####################################
+
+TRY-6. improved crude method-4
+
+similar to improved crude method-2
+except
+
+IF ring is over phenyl ring
+  return phenyl axis if it passes cylinder test (valid axis)
+ELSE choose from one of 6 axes metioned in improved crude method-2
+  
+##########################################
+
+TRY-7
+improved crude method-4 + use COM of track atoms to calculate track rotation
+
+########################################
+
+CHECK-2
+No H
+current system with pheny my method, your method
+
+Analysis without H
+systems
+1. My method case_2(with solvent) near phenyl ring (original)
+2. sir's method case_2(with solvent) on the other side of the track away from phenyl ring
+
+####################################
+DATA
+
+Rotation of only ring (case_2)
+
+Absolute rotation of only ring
+(WRONG) ring+track = ring
+only ring
+
+case_2 (with solvent)
+(WRONG) both side of the track
+only ring 
+######################################
+
+DATA 
+
+Rotation of only ring(case_1)(to be produced)
+(WRONG) working data for ring+track(case_1,o-o axis) 76808d76fe0877cb39d811b9224148e1b18b87d7
+
+###############################################
+
+CHECK-3 (to understand the spread in the ring atom rotation(axis_opt))
+
+check 10 phenyl atom rotation (top&bottom, top&side)
+separate 30 lines with and color them with the different colors
+
+check the rotation of extreme atoms
+
+colusion: my method(axis opt) gives reliable direction but not reliable magnitude
+#####################################
+
+CHECK-4
+
+Relative rotation of the ring(case_1)
+
+a. calculate the rotation of only ring in the ring+track (case_1,no solvent, no counterions, sub-system-4)
+b. atom no 4(H) and 5(C) are top two heighest rotating atoms in the only ring (case_1,no solvent, no counterions, sub-system-4)
+c. find atoms corresponding to atom no 4(H) and 5(C) in the ring+track by identifying top 1 or top 2 atoms
+d. map the corresponding atoms of only ring and ring+track using step b and c
+e. find relative rotation of all ring atoms (ring+track - ring) in order to eliminate the systematic errors
+
+Above procedure will eliminate systematic the errors arising from my method and 
+the result will show the effect of the track on the rotation of ring
+we hope that this is the most reliable procedure to identify effect of the track on the ring rotation
+
+NOTE: map only carbon and nitrogen
+
+##############################################
+
+CHECK-5
+Separate the graphs: find the relative rotation(from check-4 data) of only the carbon and two hydrogens(attached to carbon) as mentioned in the paper(180 deg rotation)
+
+DATA
+generate data(axis opt) for subsystem-5 (5. molecular_rotor_b3lyp_with_solvent.md,merged_scr_1_2_3_4_low_temp,1300 K)
+
+################################################
+
+CHECK-6
+reproduce the data of check-5 but with the average over 1000 frames
+reason: to remove the randomness
+
+Steps:
+1. ring from ring+track = take average over every 1000 frames
+2. only ring = take average over 1000 frames
+3. for total 50,000 frame we will get 50 points
+4. subtrack 50 points of only_ring from ring+track
+
+####################################################
+
+CHECK-7
+
+check-4,5,6 on new data
+
+case_1, with solvent, with counter ions-4
+ring+track = 5. molecular_rotor_b3lyp_with_solvent.md/merged_scr_1_2_3_4_low_temp (with solvent, with 4-counter ions)
+only_ring = /home/vanka/ruchi/molecular_motor/case_1/ring_with_solvent_with_ci_4 (with solvent, with 4-counter ions)
+(only_ring = /home/vanka/ruchi/molecular_motor/case_1/molecular_rotor_b3lyp_with_solvent.md/scr)
+
+#####################################################
+
+VERIFICATION
+
+verify the correctness of the direction of my method (axis_opt)
+
+NEW IDEA TO THINK ABOUT:
+
+translation and rotation correlation.
+If we get some correlation then we don't have to worry absolute values
+
+###########################################################

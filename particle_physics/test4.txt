@@ -1,0 +1,1928 @@
+((0. + 0.*I) + (5.59347359924769*^-7*(-882848.16 - Eh^2 + 
+     (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+     2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+     2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+        Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+        Sin[\[Phi]]*Sin[\[Phi]p])))/
+   ((105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+     Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+        Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+        Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+       Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+       Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))*
+    (1.74376689*^6 - 2*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+        Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+         Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+         Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+        Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+        (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+            2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+          Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp])) + (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*
+          (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+           2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p])))/
+         (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp]))) + (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp]*(-882848.16 - Eh^2 + 
+           (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+           2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p])))/
+         (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+        (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+           (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+           2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+         (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp])))))^2) + 
+  (9.537196792572622*^-15*(110350.8 - 105.7*Eq - 
+     (52.85*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+       Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+          Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+         Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+         Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))*
+    ((469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+         2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+       Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+          Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+         Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+         Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) - 
+     (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+       (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))))/
+   (1.74376689*^6 - 2*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+       Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+        Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+        Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+       Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+       (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+           2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+         Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+       (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+         (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp])))))^2 - 
+  (1.6594287826267315*^-12*(-882848.16 - Eh^2 + 
+     (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+     2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+     2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+        Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+        Sin[\[Phi]]*Sin[\[Phi]p]))*(979585.2 - 938.3*Eq - 
+     Eh^2*Cos[\[Theta]]^2 + Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - 
+     Eh^2*Cos[\[Phi]]^2*Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*
+      Sin[\[Theta]]*Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+     Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+     (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+         2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+       Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+          Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+         Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+         Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+     (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+       (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))))/
+   ((105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+     Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+        Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+        Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+       Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+       Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))*
+    (1.74376689*^6 - 2*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+        Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+         Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+         Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+        Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+        (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+            2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+          Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp])) + (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*
+          (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+           2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p])))/
+         (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp]))) + (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp]*(-882848.16 - Eh^2 + 
+           (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+           2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p])))/
+         (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+        (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+           (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+           2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+         (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp])))))^2) - 
+  (2.1877228767826004*^-20*(110350.8 - 105.7*Eq - 
+     (52.85*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+       Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+          Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+         Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+         Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))*
+    ((469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+         2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+       Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+          Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+         Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+         Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) - 
+     (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+       (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))))*
+    (979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + Eh*Eq*Cos[\[Theta]]*
+      Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*Sin[\[Theta]]^2 + 
+     Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*Sin[\[Theta]p] - 
+     Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*
+      Sin[\[Phi]]*Sin[\[Phi]p] - 
+     (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+         2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+       Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+          Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+         Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+         Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+     (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+       (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))))/
+   (1.74376689*^6 - 2*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+       Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+        Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+        Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+       Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+       (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+           2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+         Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+       (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+         (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp])))))^2 + 
+  (1.4549548612881167*^-18*(-882848.16 - Eh^2 + 
+     (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+     2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+     2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+        Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+        Sin[\[Phi]]*Sin[\[Phi]p]))*(979585.2 - 938.3*Eq - 
+      Eh^2*Cos[\[Theta]]^2 + Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - 
+      Eh^2*Cos[\[Phi]]^2*Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*
+       Sin[\[Theta]]*Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+      Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+      (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+          2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+        Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+      (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+      (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+        (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+      (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))))^2)/
+   ((105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+     Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+        Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+        Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+       Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+       Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))*
+    (1.74376689*^6 - 2*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+        Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+         Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+         Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+        Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+        (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+            2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+          Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp])) + (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*
+          (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+           2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p])))/
+         (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp]))) + (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp]*(-882848.16 - Eh^2 + 
+           (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+           2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p])))/
+         (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+        (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+           (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+           2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+         (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp])))))^2) + 
+  (1.254595949337357*^-26*(110350.8 - 105.7*Eq - 
+     (52.85*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+       Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+          Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+         Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+         Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))*
+    ((469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+         2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+       Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+          Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+         Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+         Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) - 
+     (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+       (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))))*
+    (979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + Eh*Eq*Cos[\[Theta]]*
+       Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*Sin[\[Theta]]^2 + 
+      Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*Sin[\[Theta]p] - 
+      Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*
+       Sin[\[Phi]]*Sin[\[Phi]p] - (469.15*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+        Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+      (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+      (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+        (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+      (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))))^2)/
+   (1.74376689*^6 - 2*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+       Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+        Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+        Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+       Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+       (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+           2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+         Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+       (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+         (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp])))))^2 - 
+  (3.3152697961239657*^-25*(-882848.16 - Eh^2 + 
+     (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+     2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+     2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+        Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+        Sin[\[Phi]]*Sin[\[Phi]p]))*(979585.2 - 938.3*Eq - 
+      Eh^2*Cos[\[Theta]]^2 + Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - 
+      Eh^2*Cos[\[Phi]]^2*Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*
+       Sin[\[Theta]]*Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+      Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+      (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+          2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+        Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+      (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+      (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+        (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+      (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))))^3)/
+   ((105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+     Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+        Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+        Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+       Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+       Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))*
+    (1.74376689*^6 - 2*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+        Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+         Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+         Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+        Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+        (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+            2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+          Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp])) + (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*
+          (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+           2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p])))/
+         (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp]))) + (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp]*(-882848.16 - Eh^2 + 
+           (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+           2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p])))/
+         (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+        (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+           (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+           2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+           2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+              Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+              Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+         (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp])))))^2) + 
+  (9.458830600247728*^-10*
+    (-(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))^2/
+      (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+     (Cos[\[Theta]pp]^2*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))^2)/
+      (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+     (Cos[\[Phi]pp]^2*Sin[\[Theta]pp]^2*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))^2)/
+      (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+     (Sin[\[Theta]pp]^2*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))^2*Sin[\[Phi]pp]^2)/
+      (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+     (522.*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+       Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+          Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+         Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+         Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) - 
+     (Eq*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eq*Cos[\[Theta]p]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+       (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eq*Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp]*
+       (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eq*Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))))/
+   (1.74376689*^6 - 2*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+       Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+        Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+        Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+       Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+       (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+           2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+         Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+       (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+         (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp])))))^2 - 
+  (2.1697465766763653*^-15*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+     Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+      Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+      Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+     Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+     (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+         2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+       Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+          Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+         Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+         Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+     (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+       (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))))*
+    (-(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))^2/
+      (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+     (Cos[\[Theta]pp]^2*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))^2)/
+      (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+     (Cos[\[Phi]pp]^2*Sin[\[Theta]pp]^2*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))^2)/
+      (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+     (Sin[\[Theta]pp]^2*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))^2*Sin[\[Phi]pp]^2)/
+      (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+     (522.*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+       Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+          Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+         Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+         Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) - 
+     (Eq*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eq*Cos[\[Theta]p]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+       (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eq*Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp]*
+       (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eq*Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))))/
+   (1.74376689*^6 - 2*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+       Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+        Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+        Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+       Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+       (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+           2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+         Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+       (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+         (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp])))))^2 + 
+  (1.244287059881247*^-21*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+      Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+       Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+       Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+      Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+      (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+          2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+        Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+      (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+      (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+        (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+      (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))))^2*
+    (-(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))^2/
+      (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+     (Cos[\[Theta]pp]^2*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))^2)/
+      (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+     (Cos[\[Phi]pp]^2*Sin[\[Theta]pp]^2*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))^2)/
+      (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+     (Sin[\[Theta]pp]^2*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))^2*Sin[\[Phi]pp]^2)/
+      (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+     (522.*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+       Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+          Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+          Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+         Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+         Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) - 
+     (Eq*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eq*Cos[\[Theta]p]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+       (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eq*Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp]*
+       (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p])))/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+     (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+     (Eq*Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*(-882848.16 - Eh^2 + 
+        (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+        2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+        2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+           Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+           Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+      (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))))/
+   (1.74376689*^6 - 2*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+       Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+        Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+        Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+       Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+       (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+           2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+         Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+       (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+         (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp])))))^2 + 
+  (2*(110350.8 - 105.7*Eq - (52.85*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+        Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))*
+     ((469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+          2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+        Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) - 
+      (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+      (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+        (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+      (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))) - 
+    198356.62*(-(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+           2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p]))^2/
+       (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+      (Cos[\[Theta]pp]^2*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p]))^2)/
+       (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+      (Cos[\[Phi]pp]^2*Sin[\[Theta]pp]^2*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p]))^2)/
+       (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+      (Sin[\[Theta]pp]^2*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p]))^2*Sin[\[Phi]pp]^2)/
+       (4*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))^2) + 
+      (522.*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+        Sqrt[880406.8899999999 + Eh^2] - Eq - 
+        Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+           Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+           Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+          Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+          Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) - 
+      (Eq*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+      (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+      (Eq*Cos[\[Theta]p]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+      (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+        (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+      (Eq*Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp]*
+        (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p])))/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) - 
+      (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+      (Eq*Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*(-882848.16 - Eh^2 + 
+         (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+         2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+         2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+            Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+            Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+       (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))))*
+   (0. + 3.312540466255838*^-15/
+     (1.74376689*^6 - 2*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+         Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+          Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+          Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+         Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+         (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + 
+                Eh^2])^2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+            2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+               Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+               Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+           Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+         (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+            (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+            2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+            2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+               Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+               Sin[\[Phi]]*Sin[\[Phi]p])))/
+          (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+            Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[
+                \[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[
+                \[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+              Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+              Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+         (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+           (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+            2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+            2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+               Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+               Sin[\[Phi]]*Sin[\[Phi]p])))/
+          (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+            Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[
+                \[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[
+                \[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+              Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+              Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+         (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+            (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+            2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+            2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+               Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+               Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+          (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+            Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[
+                \[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[
+                \[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+              Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+              Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))))^
+      2 - (3.799292767000339*^-21*(979585.2 - 938.3*Eq - 
+       Eh^2*Cos[\[Theta]]^2 + Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - 
+       Eh^2*Cos[\[Phi]]^2*Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*
+        Sin[\[Theta]]*Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+       Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+       (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^
+           2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+         Sqrt[880406.8899999999 + Eh^2] - Eq - 
+         Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+            Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+            Sin[\[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+           Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+           Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+       (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+         (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p])))/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+       (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+          (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+          2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+          2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+             Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+             Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+        (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+          Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+             Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+             Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+          Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+             Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+             Sin[\[Phi]p]*Sin[\[Phi]pp])))))/
+     (1.74376689*^6 - 2*(979585.2 - 938.3*Eq - Eh^2*Cos[\[Theta]]^2 + 
+         Eh*Eq*Cos[\[Theta]]*Cos[\[Theta]p] - Eh^2*Cos[\[Phi]]^2*
+          Sin[\[Theta]]^2 + Eh*Eq*Cos[\[Phi]]*Cos[\[Phi]p]*Sin[\[Theta]]*
+          Sin[\[Theta]p] - Eh^2*Sin[\[Theta]]^2*Sin[\[Phi]]^2 + 
+         Eh*Eq*Sin[\[Theta]]*Sin[\[Theta]p]*Sin[\[Phi]]*Sin[\[Phi]p] - 
+         (469.15*(-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + 
+                Eh^2])^2 - 2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+            2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+               Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+               Sin[\[Phi]]*Sin[\[Phi]p])))/(105.7 + 
+           Sqrt[880406.8899999999 + Eh^2] - Eq - 
+           Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*
+              Sin[\[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*
+              Sin[\[Phi]]*Sin[\[Phi]pp]) + 
+           Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + Cos[\[Phi]p]*Cos[\[Phi]pp]*
+              Sin[\[Theta]p]*Sin[\[Theta]pp] + Sin[\[Theta]p]*Sin[\[Theta]pp]*
+              Sin[\[Phi]p]*Sin[\[Phi]pp])) + 
+         (Eh*Cos[\[Theta]]*Cos[\[Theta]pp]*(-882848.16 - Eh^2 + 
+            (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+            2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+            2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+               Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+               Sin[\[Phi]]*Sin[\[Phi]p])))/
+          (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+            Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[
+                \[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[
+                \[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+              Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+              Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+         (Eh*Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[\[Theta]]*Sin[\[Theta]pp]*
+           (-882848.16 - Eh^2 + (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+            2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+            2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+               Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+               Sin[\[Phi]]*Sin[\[Phi]p])))/
+          (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+            Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[
+                \[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[
+                \[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+              Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+              Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp]))) + 
+         (Eh*Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[\[Phi]]*(-882848.16 - Eh^2 + 
+            (105.7 + Sqrt[880406.8899999999 + Eh^2])^2 - 
+            2*(105.7 + Sqrt[880406.8899999999 + Eh^2])*Eq + 
+            2*Eh*Eq*(Cos[\[Theta]]*Cos[\[Theta]p] + Cos[\[Phi]]*Cos[\[Phi]p]*
+               Sin[\[Theta]]*Sin[\[Theta]p] + Sin[\[Theta]]*Sin[\[Theta]p]*
+               Sin[\[Phi]]*Sin[\[Phi]p]))*Sin[\[Phi]pp])/
+          (2*(105.7 + Sqrt[880406.8899999999 + Eh^2] - Eq - 
+            Eh*(Cos[\[Theta]]*Cos[\[Theta]pp] + Cos[\[Phi]]*Cos[\[Phi]pp]*Sin[
+                \[Theta]]*Sin[\[Theta]pp] + Sin[\[Theta]]*Sin[\[Theta]pp]*Sin[
+                \[Phi]]*Sin[\[Phi]pp]) + Eq*(Cos[\[Theta]p]*Cos[\[Theta]pp] + 
+              Cos[\[Phi]p]*Cos[\[Phi]pp]*Sin[\[Theta]p]*Sin[\[Theta]pp] + 
+              Sin[\[Theta]p]*Sin[\[Theta]pp]*Sin[\[Phi]p]*Sin[\[Phi]pp])))))^
+      2))^3
+

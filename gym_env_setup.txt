@@ -1,0 +1,22 @@
+allow remote access to jupyter notebook hosted on AWS EC2:
+https://www.codingforentrepreneurs.com/blog/jupyter-notebook-server-aws-ec2-aws-vpc
+
+
+jupyter notebook --generate-config
+
+path: ~/.jupyter/jupyter_notebook_config.py
+
+add following at the top of jupyter_notebook_config.py
+
+c = get_config()
+c.NotebookApp.allow_origin = 'http://54.87.250.176' # put your public IP Address here
+c.NotebookApp.ip = '*'
+c.NotebookApp.allow_remote_access = True
+c.NotebookApp.open_browser = False
+
+How to render gym env in jupyter notebook:
+https://stackoverflow.com/questions/40195740/how-to-run-openai-gym-render-over-a-server?noredirect=1&lq=1
+
+xvfb-run -s "-screen 0 1400x900x24" jupyter notebook
+
+

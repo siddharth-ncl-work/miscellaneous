@@ -1,0 +1,42 @@
+==========================[PDFs]===============================
+
+(resource list)
+https://nonrival.pub/2018/02/17/good-non-technical-resources-for-understanding-machine-learning/
+
+(optional)
+https://www.technologyreview.com/2017/09/29/67852/is-ai-riding-a-one-trick-pony/
+
+(not so great, visual)
+https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai#
+
+(What Artificial Intelligence Can and Can’t Do Right Now)
+https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now
+
+(Explaining Machine Learning Concepts to Non-Technical People)
+https://medium.com/machine-learning-in-practice/explaining-machine-learning-concepts-to-non-technical-people-fe2663d55677
+
+(A Non-Technical Introduction to Machine Learning)
+https://medium.com/@noahyonack/a-non-technical-introduction-to-machine-learning-b49fce202ae8
+
+(Non-Technical Person’s Guide To Entering The Machine Learning Industry)
+https://analyticsindiamag.com/non-technical-persons-guide-to-entering-the-machine-learning-industry/
+
+(Machine Learning Tutorial For Complete Beginners | Learn Machine Learning with Python)
+https://www.mygreatlearning.com/blog/machine-learning-tutorial/
+
+
+===========================[SLIDES]==============================
+
+[EXCELLENT](Jason's Machine Learning 101)
+https://goo.gl/5Wd2vy
+
+(Machine Learning for Non-technical People)
+https://www.slideshare.net/indicods/machine-learning-for-nontechnical-people-55890743
+
+(Machine Learning for Non-Technical People - Turing Fest 2019)
+https://www.slideshare.net/Muller-Marketing-Inc/machine-learning-for-nontechnical-people-turing-fest-2019
+
+(Intro to Machine Learning for non-Data Scientists)
+https://www.slideshare.net/ParinazAmeri/intro-to-machine-learning-for-nondata-scientists
+
+

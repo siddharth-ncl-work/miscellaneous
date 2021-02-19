@@ -1,0 +1,994 @@
+curr_ch =  
+getWord: Error List is empty
+curr_ch = 2
+curr_word returned  =  2
+curr_ch = *
+curr_word returned  =  2
+getWord: Error List is empty
+curr_ch = (
+curr_ch = 1
+curr_word returned  =  1
+curr_ch = 1
+curr_word returned  =  11
+curr_ch = 0
+curr_word returned  =  110
+curr_ch = 3
+curr_word returned  =  1103
+curr_ch = 5
+curr_word returned  =  11035
+curr_ch = 0
+curr_word returned  =  110350
+curr_ch = .
+curr_word returned  =  110350.
+curr_ch = 8
+curr_word returned  =  110350.8
+curr_ch =  
+curr_word returned  =  110350.8
+curr_ch = -
+curr_word returned  =  110350.8
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = 1
+curr_word returned  =  1
+curr_ch = 0
+curr_word returned  =  10
+curr_ch = 5
+curr_word returned  =  105
+curr_ch = .
+curr_word returned  =  105.
+curr_ch = 7
+curr_word returned  =  105.7
+curr_ch = *
+curr_word returned  =  105.7
+getWord: Error List is empty
+curr_ch = E
+curr_word returned  =  E
+curr_ch = q
+curr_word returned  =  Eq
+curr_ch = )
+curr_word returned  =  Eq
+( (110350.796875 - (105.699997 * Eq))getWord: Error List is empty
+curr_ch = *
+getWord: Error List is empty
+curr_ch = 
+
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = (
+curr_ch = (
+curr_ch = 4
+curr_word returned  =  4
+curr_ch = 6
+curr_word returned  =  46
+curr_ch = 9
+curr_word returned  =  469
+curr_ch = .
+curr_word returned  =  469.
+curr_ch = 1
+curr_word returned  =  469.1
+curr_ch = 5
+curr_word returned  =  469.15
+curr_ch = *
+curr_word returned  =  469.15
+getWord: Error List is empty
+curr_ch = (
+curr_ch = -
+curr_word returned  =  -
+curr_ch = 8
+curr_word returned  =  -8
+curr_ch = 8
+curr_word returned  =  -88
+curr_ch = 2
+curr_word returned  =  -882
+curr_ch = 8
+curr_word returned  =  -8828
+curr_ch = 4
+curr_word returned  =  -88284
+curr_ch = 8
+curr_word returned  =  -882848
+curr_ch = .
+curr_word returned  =  -882848.
+curr_ch = 1
+curr_word returned  =  -882848.1
+curr_ch = 6
+curr_word returned  =  -882848.16
+curr_ch =  
+curr_word returned  =  -882848.16
+curr_ch = -
+curr_word returned  =  -882848.16
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = E
+curr_word returned  =  E
+curr_ch = h
+curr_word returned  =  Eh
+curr_ch = ^
+^ operator ^2
+curr_word returned  =  Eh
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = +
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = (
+curr_ch = 1
+curr_word returned  =  1
+curr_ch = 0
+curr_word returned  =  10
+curr_ch = 5
+curr_word returned  =  105
+curr_ch = .
+curr_word returned  =  105.
+curr_ch = 7
+curr_word returned  =  105.7
+curr_ch =  
+curr_word returned  =  105.7
+curr_ch = +
+curr_word returned  =  105.7
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = q
+curr_word returned  =  Sq
+curr_ch = r
+curr_word returned  =  Sqr
+curr_ch = t
+curr_word returned  =  Sqrt
+curr_ch = 8
+curr_word returned  =  88
+curr_ch = 0
+curr_word returned  =  880
+curr_ch = 4
+curr_word returned  =  8804
+curr_ch = 0
+curr_word returned  =  88040
+curr_ch = 6
+curr_word returned  =  880406
+curr_ch = .
+curr_word returned  =  880406.
+curr_ch = 8
+curr_word returned  =  880406.8
+curr_ch = 8
+curr_word returned  =  880406.88
+curr_ch = 9
+curr_word returned  =  880406.889
+curr_ch = 9
+curr_word returned  =  880406.8899
+curr_ch = 9
+curr_word returned  =  880406.88999
+curr_ch = 9
+curr_word returned  =  880406.889999
+curr_ch = 9
+curr_word returned  =  880406.8899999
+curr_ch = 9
+curr_word returned  =  880406.88999999
+curr_ch = 9
+curr_word returned  =  880406.889999999
+curr_ch = 9
+curr_word returned  =  880406.8899999999
+curr_ch =  
+curr_word returned  =  880406.8899999999
+curr_ch = +
+curr_word returned  =  880406.8899999999
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = E
+curr_word returned  =  E
+curr_ch = h
+curr_word returned  =  Eh
+curr_ch = ^
+^ operator ^2
+curr_word returned  =  Eh
+getWord: Error List is empty
+curr_ch = ]
+Sqrt
+Sqrt[(880406.875000 + Eh^2)]curr_ch = )
+( (105.699997 + Sqrt[(880406.875000 + Eh^2)])getWord: Error List is empty
+curr_ch = ^
+^ operator ^2
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = -
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = 2
+curr_word returned  =  2
+curr_ch = *
+curr_word returned  =  2
+getWord: Error List is empty
+curr_ch = (
+curr_ch = 1
+curr_word returned  =  1
+curr_ch = 0
+curr_word returned  =  10
+curr_ch = 5
+curr_word returned  =  105
+curr_ch = .
+curr_word returned  =  105.
+curr_ch = 7
+curr_word returned  =  105.7
+curr_ch =  
+curr_word returned  =  105.7
+curr_ch = +
+curr_word returned  =  105.7
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = q
+curr_word returned  =  Sq
+curr_ch = r
+curr_word returned  =  Sqr
+curr_ch = t
+curr_word returned  =  Sqrt
+curr_ch = 8
+curr_word returned  =  88
+curr_ch = 0
+curr_word returned  =  880
+curr_ch = 4
+curr_word returned  =  8804
+curr_ch = 0
+curr_word returned  =  88040
+curr_ch = 6
+curr_word returned  =  880406
+curr_ch = .
+curr_word returned  =  880406.
+curr_ch = 8
+curr_word returned  =  880406.8
+curr_ch = 8
+curr_word returned  =  880406.88
+curr_ch = 9
+curr_word returned  =  880406.889
+curr_ch = 9
+curr_word returned  =  880406.8899
+curr_ch = 9
+curr_word returned  =  880406.88999
+curr_ch = 9
+curr_word returned  =  880406.889999
+curr_ch = 9
+curr_word returned  =  880406.8899999
+curr_ch = 9
+curr_word returned  =  880406.88999999
+curr_ch = 9
+curr_word returned  =  880406.889999999
+curr_ch = 9
+curr_word returned  =  880406.8899999999
+curr_ch =  
+curr_word returned  =  880406.8899999999
+curr_ch = +
+curr_word returned  =  880406.8899999999
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = E
+curr_word returned  =  E
+curr_ch = h
+curr_word returned  =  Eh
+curr_ch = ^
+^ operator ^2
+curr_word returned  =  Eh
+getWord: Error List is empty
+curr_ch = ]
+Sqrt
+Sqrt[(880406.875000 + Eh^2)]curr_ch = )
+( (105.699997 + Sqrt[(880406.875000 + Eh^2)])getWord: Error List is empty
+curr_ch = *
+getWord: Error List is empty
+curr_ch = E
+curr_word returned  =  E
+curr_ch = q
+curr_word returned  =  Eq
+curr_ch =  
+curr_word returned  =  Eq
+curr_ch = +
+curr_word returned  =  Eq
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = 
+
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = 2
+curr_word returned  =  2
+curr_ch = *
+curr_word returned  =  2
+getWord: Error List is empty
+curr_ch = E
+curr_word returned  =  E
+curr_ch = h
+curr_word returned  =  Eh
+curr_ch = *
+curr_word returned  =  Eh
+getWord: Error List is empty
+curr_ch = E
+curr_word returned  =  E
+curr_ch = q
+curr_word returned  =  Eq
+curr_ch = *
+curr_word returned  =  Eq
+getWord: Error List is empty
+curr_ch = (
+curr_ch = C
+curr_word returned  =  C
+curr_ch = o
+curr_word returned  =  Co
+curr_ch = s
+curr_word returned  =  Cos
+curr_word returned  =  \[Theta]
+Cos
+Cos[\[Theta]]curr_ch = *
+getWord: Error List is empty
+curr_ch = C
+curr_word returned  =  C
+curr_ch = o
+curr_word returned  =  Co
+curr_ch = s
+curr_word returned  =  Cos
+curr_word returned  =  \[Theta]p
+Cos
+Cos[\[Theta]p]curr_ch =  
+getWord: Error List is empty
+curr_ch = +
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = C
+curr_word returned  =  C
+curr_ch = o
+curr_word returned  =  Co
+curr_ch = s
+curr_word returned  =  Cos
+curr_word returned  =  \[Phi]
+Cos
+Cos[\[Phi]]curr_ch = *
+getWord: Error List is empty
+curr_ch = C
+curr_word returned  =  C
+curr_ch = o
+curr_word returned  =  Co
+curr_ch = s
+curr_word returned  =  Cos
+curr_word returned  =  \[Phi]p
+Cos
+Cos[\[Phi]p]curr_ch = *
+getWord: Error List is empty
+curr_ch = 
+
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Theta]
+Sin
+Sin[\[Theta]]curr_ch = *
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Theta]p
+Sin
+Sin[\[Theta]p]curr_ch =  
+getWord: Error List is empty
+curr_ch = +
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Theta]
+Sin
+Sin[\[Theta]]curr_ch = *
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Theta]p
+Sin
+Sin[\[Theta]p]curr_ch = *
+getWord: Error List is empty
+curr_ch = 
+
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Phi]
+Sin
+Sin[\[Phi]]curr_ch = *
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Phi]p
+Sin
+Sin[\[Phi]p]curr_ch = )
+( (((Cos[\[Theta]] * Cos[\[Theta]p]) + (((Cos[\[Phi]] * Cos[\[Phi]p]) * Sin[\[Theta]]) * Sin[\[Theta]p])) + (((Sin[\[Theta]] * Sin[\[Theta]p]) * Sin[\[Phi]]) * Sin[\[Phi]p]))getWord: Error List is empty
+curr_ch = )
+( ((((-882848.187500 - Eh^2) + (105.699997 + Sqrt[(880406.875000 + Eh^2)])^2) - ((2.000000 * (105.699997 + Sqrt[(880406.875000 + Eh^2)])) * Eq)) + (((2.000000 * Eh) * Eq) * (((Cos[\[Theta]] * Cos[\[Theta]p]) + (((Cos[\[Phi]] * Cos[\[Phi]p]) * Sin[\[Theta]]) * Sin[\[Theta]p])) + (((Sin[\[Theta]] * Sin[\[Theta]p]) * Sin[\[Phi]]) * Sin[\[Phi]p]))))getWord: Error List is empty
+curr_ch = )
+( (469.149994 * ((((-882848.187500 - Eh^2) + (105.699997 + Sqrt[(880406.875000 + Eh^2)])^2) - ((2.000000 * (105.699997 + Sqrt[(880406.875000 + Eh^2)])) * Eq)) + (((2.000000 * Eh) * Eq) * (((Cos[\[Theta]] * Cos[\[Theta]p]) + (((Cos[\[Phi]] * Cos[\[Phi]p]) * Sin[\[Theta]]) * Sin[\[Theta]p])) + (((Sin[\[Theta]] * Sin[\[Theta]p]) * Sin[\[Phi]]) * Sin[\[Phi]p])))))getWord: Error List is empty
+curr_ch = /
+getWord: Error List is empty
+curr_ch = (
+curr_ch = 1
+curr_word returned  =  1
+curr_ch = 0
+curr_word returned  =  10
+curr_ch = 5
+curr_word returned  =  105
+curr_ch = .
+curr_word returned  =  105.
+curr_ch = 7
+curr_word returned  =  105.7
+curr_ch =  
+curr_word returned  =  105.7
+curr_ch = +
+curr_word returned  =  105.7
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = 
+
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = q
+curr_word returned  =  Sq
+curr_ch = r
+curr_word returned  =  Sqr
+curr_ch = t
+curr_word returned  =  Sqrt
+curr_ch = 8
+curr_word returned  =  88
+curr_ch = 0
+curr_word returned  =  880
+curr_ch = 4
+curr_word returned  =  8804
+curr_ch = 0
+curr_word returned  =  88040
+curr_ch = 6
+curr_word returned  =  880406
+curr_ch = .
+curr_word returned  =  880406.
+curr_ch = 8
+curr_word returned  =  880406.8
+curr_ch = 8
+curr_word returned  =  880406.88
+curr_ch = 9
+curr_word returned  =  880406.889
+curr_ch = 9
+curr_word returned  =  880406.8899
+curr_ch = 9
+curr_word returned  =  880406.88999
+curr_ch = 9
+curr_word returned  =  880406.889999
+curr_ch = 9
+curr_word returned  =  880406.8899999
+curr_ch = 9
+curr_word returned  =  880406.88999999
+curr_ch = 9
+curr_word returned  =  880406.889999999
+curr_ch = 9
+curr_word returned  =  880406.8899999999
+curr_ch =  
+curr_word returned  =  880406.8899999999
+curr_ch = +
+curr_word returned  =  880406.8899999999
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = E
+curr_word returned  =  E
+curr_ch = h
+curr_word returned  =  Eh
+curr_ch = ^
+^ operator ^2
+curr_word returned  =  Eh
+getWord: Error List is empty
+curr_ch = ]
+Sqrt
+Sqrt[(880406.875000 + Eh^2)]curr_ch =  
+getWord: Error List is empty
+curr_ch = -
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = E
+curr_word returned  =  E
+curr_ch = q
+curr_word returned  =  Eq
+curr_ch =  
+curr_word returned  =  Eq
+curr_ch = -
+curr_word returned  =  Eq
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = 
+
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = E
+curr_word returned  =  E
+curr_ch = h
+curr_word returned  =  Eh
+curr_ch = *
+curr_word returned  =  Eh
+getWord: Error List is empty
+curr_ch = (
+curr_ch = C
+curr_word returned  =  C
+curr_ch = o
+curr_word returned  =  Co
+curr_ch = s
+curr_word returned  =  Cos
+curr_word returned  =  \[Theta]
+Cos
+Cos[\[Theta]]curr_ch = *
+getWord: Error List is empty
+curr_ch = C
+curr_word returned  =  C
+curr_ch = o
+curr_word returned  =  Co
+curr_ch = s
+curr_word returned  =  Cos
+curr_word returned  =  \[Theta]pp
+Cos
+Cos[\[Theta]pp]curr_ch =  
+getWord: Error List is empty
+curr_ch = +
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = C
+curr_word returned  =  C
+curr_ch = o
+curr_word returned  =  Co
+curr_ch = s
+curr_word returned  =  Cos
+curr_word returned  =  \[Phi]
+Cos
+Cos[\[Phi]]curr_ch = *
+getWord: Error List is empty
+curr_ch = C
+curr_word returned  =  C
+curr_ch = o
+curr_word returned  =  Co
+curr_ch = s
+curr_word returned  =  Cos
+curr_word returned  =  \[Phi]pp
+Cos
+Cos[\[Phi]pp]curr_ch = *
+getWord: Error List is empty
+curr_ch = 
+
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Theta]
+Sin
+Sin[\[Theta]]curr_ch = *
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Theta]pp
+Sin
+Sin[\[Theta]pp]curr_ch =  
+getWord: Error List is empty
+curr_ch = +
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Theta]
+Sin
+Sin[\[Theta]]curr_ch = *
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Theta]pp
+Sin
+Sin[\[Theta]pp]curr_ch = *
+getWord: Error List is empty
+curr_ch = 
+
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Phi]
+Sin
+Sin[\[Phi]]curr_ch = *
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Phi]pp
+Sin
+Sin[\[Phi]pp]curr_ch = )
+( (((Cos[\[Theta]] * Cos[\[Theta]pp]) + (((Cos[\[Phi]] * Cos[\[Phi]pp]) * Sin[\[Theta]]) * Sin[\[Theta]pp])) + (((Sin[\[Theta]] * Sin[\[Theta]pp]) * Sin[\[Phi]]) * Sin[\[Phi]pp]))getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = +
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = E
+curr_word returned  =  E
+curr_ch = q
+curr_word returned  =  Eq
+curr_ch = *
+curr_word returned  =  Eq
+getWord: Error List is empty
+curr_ch = (
+curr_ch = C
+curr_word returned  =  C
+curr_ch = o
+curr_word returned  =  Co
+curr_ch = s
+curr_word returned  =  Cos
+curr_word returned  =  \[Theta]p
+Cos
+Cos[\[Theta]p]curr_ch = *
+getWord: Error List is empty
+curr_ch = C
+curr_word returned  =  C
+curr_ch = o
+curr_word returned  =  Co
+curr_ch = s
+curr_word returned  =  Cos
+curr_word returned  =  \[Theta]pp
+Cos
+Cos[\[Theta]pp]curr_ch =  
+getWord: Error List is empty
+curr_ch = +
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = 
+
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = C
+curr_word returned  =  C
+curr_ch = o
+curr_word returned  =  Co
+curr_ch = s
+curr_word returned  =  Cos
+curr_word returned  =  \[Phi]p
+Cos
+Cos[\[Phi]p]curr_ch = *
+getWord: Error List is empty
+curr_ch = C
+curr_word returned  =  C
+curr_ch = o
+curr_word returned  =  Co
+curr_ch = s
+curr_word returned  =  Cos
+curr_word returned  =  \[Phi]pp
+Cos
+Cos[\[Phi]pp]curr_ch = *
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Theta]p
+Sin
+Sin[\[Theta]p]curr_ch = *
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Theta]pp
+Sin
+Sin[\[Theta]pp]curr_ch =  
+getWord: Error List is empty
+curr_ch = +
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = 
+
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Theta]p
+Sin
+Sin[\[Theta]p]curr_ch = *
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Theta]pp
+Sin
+Sin[\[Theta]pp]curr_ch = *
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Phi]p
+Sin
+Sin[\[Phi]p]curr_ch = *
+getWord: Error List is empty
+curr_ch = S
+curr_word returned  =  S
+curr_ch = i
+curr_word returned  =  Si
+curr_ch = n
+curr_word returned  =  Sin
+curr_word returned  =  \[Phi]pp
+Sin
+Sin[\[Phi]pp]curr_ch = )
+( (((Cos[\[Theta]p] * Cos[\[Theta]pp]) + (((Cos[\[Phi]p] * Cos[\[Phi]pp]) * Sin[\[Theta]p]) * Sin[\[Theta]pp])) + (((Sin[\[Theta]p] * Sin[\[Theta]pp]) * Sin[\[Phi]p]) * Sin[\[Phi]pp]))getWord: Error List is empty
+curr_ch = )
+( ((((105.699997 + Sqrt[(880406.875000 + Eh^2)]) - Eq) - (Eh * (((Cos[\[Theta]] * Cos[\[Theta]pp]) + (((Cos[\[Phi]] * Cos[\[Phi]pp]) * Sin[\[Theta]]) * Sin[\[Theta]pp])) + (((Sin[\[Theta]] * Sin[\[Theta]pp]) * Sin[\[Phi]]) * Sin[\[Phi]pp])))) + (Eq * (((Cos[\[Theta]p] * Cos[\[Theta]pp]) + (((Cos[\[Phi]p] * Cos[\[Phi]pp]) * Sin[\[Theta]p]) * Sin[\[Theta]pp])) + (((Sin[\[Theta]p] * Sin[\[Theta]pp]) * Sin[\[Phi]p]) * Sin[\[Phi]pp]))))getWord: Error List is empty
+curr_ch =  
+getWord: Error List is empty
+curr_ch = )
+( (469.149994 * (((((-882848.187500 - Eh^2) + (105.699997 + Sqrt[(880406.875000 + Eh^2)])^2) - ((2.000000 * (105.699997 + Sqrt[(880406.875000 + Eh^2)])) * Eq)) + (((2.000000 * Eh) * Eq) * (((Cos[\[Theta]] * Cos[\[Theta]p]) + (((Cos[\[Phi]] * Cos[\[Phi]p]) * Sin[\[Theta]]) * Sin[\[Theta]p])) + (((Sin[\[Theta]] * Sin[\[Theta]p]) * Sin[\[Phi]]) * Sin[\[Phi]p])))) / ((((105.699997 + Sqrt[(880406.875000 + Eh^2)]) - Eq) - (Eh * (((Cos[\[Theta]] * Cos[\[Theta]pp]) + (((Cos[\[Phi]] * Cos[\[Phi]pp]) * Sin[\[Theta]]) * Sin[\[Theta]pp])) + (((Sin[\[Theta]] * Sin[\[Theta]pp]) * Sin[\[Phi]]) * Sin[\[Phi]pp])))) + (Eq * (((Cos[\[Theta]p] * Cos[\[Theta]pp]) + (((Cos[\[Phi]p] * Cos[\[Phi]pp]) * Sin[\[Theta]p]) * Sin[\[Theta]pp])) + (((Sin[\[Theta]p] * Sin[\[Theta]pp]) * Sin[\[Phi]p]) * Sin[\[Phi]pp]))))))getWord: Error List is empty
+curr_ch = ^
+^ operator ^3
+getWord: Error List is empty
+curr_ch = 
+
+getWord: Error List is empty
+curr_ch = ÿ
+(2.000000 * ((110350.796875 - (105.699997 * Eq)) * (469.149994 * (((((-882848.187500 - Eh^2) + (105.699997 + Sqrt[(880406.875000 + Eh^2)])^2) - ((2.000000 * (105.699997 + Sqrt[(880406.875000 + Eh^2)])) * Eq)) + (((2.000000 * Eh) * Eq) * (((Cos[\[Theta]] * Cos[\[Theta]p]) + (((Cos[\[Phi]] * Cos[\[Phi]p]) * Sin[\[Theta]]) * Sin[\[Theta]p])) + (((Sin[\[Theta]] * Sin[\[Theta]p]) * Sin[\[Phi]]) * Sin[\[Phi]p])))) / ((((105.699997 + Sqrt[(880406.875000 + Eh^2)]) - Eq) - (Eh * (((Cos[\[Theta]] * Cos[\[Theta]pp]) + (((Cos[\[Phi]] * Cos[\[Phi]pp]) * Sin[\[Theta]]) * Sin[\[Theta]pp])) + (((Sin[\[Theta]] * Sin[\[Theta]pp]) * Sin[\[Phi]]) * Sin[\[Phi]pp])))) + (Eq * (((Cos[\[Theta]p] * Cos[\[Theta]pp]) + (((Cos[\[Phi]p] * Cos[\[Phi]pp]) * Sin[\[Theta]p]) * Sin[\[Theta]pp])) + (((Sin[\[Theta]p] * Sin[\[Theta]pp]) * Sin[\[Phi]p]) * Sin[\[Phi]pp]))))))^3))
+Evaluate = 0.000000
