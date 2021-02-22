@@ -1,1 +1,6 @@
-https://machinelearningmastery.com/calculate-feature-importance-with-python/
+-https://machinelearningmastery.com/calculate-feature-importance-with-python/
+
+-[FEATAURE IMPORTANCE]
+http://rasbt.github.io/mlxtend/user_guide/evaluate/feature_importance_permutation/
+
+-https://towardsdatascience.com/feature-importance-may-be-lying-to-you-3247cafa7ee7
