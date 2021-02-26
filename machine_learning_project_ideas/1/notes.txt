@@ -23,3 +23,7 @@ TASKS:
 6. [optional] Add composite Features
 
 7. Feature Selection from multiple methods and models
+
+8. Accuracy wrt FG
+
+9. Performance of top 20 features
