@@ -4,3 +4,22 @@
 http://rasbt.github.io/mlxtend/user_guide/evaluate/feature_importance_permutation/
 
 -https://towardsdatascience.com/feature-importance-may-be-lying-to-you-3247cafa7ee7
+
+
+TASKS:
+
+1. Add 'FG' as a categorical feature
+
+2. Add more features - 3d features, HOMO-LUMO features
+
+ -maybe add features from other library like Mordred
+
+3. Calculate robust model performance using CV
+
+4. Add automatic feature selection using sklearn, manually selecting top 20 features might not be good idea (https://scikit-learn.org/stable/modules/feature_selection.html)
+
+5. RFE (Recursive Feture Elimination) to calculate Feature Importance
+
+6. [optional] Add composite Features
+
+7. Feature Selection from multiple methods and models
