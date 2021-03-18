@@ -27,3 +27,106 @@ TASKS:
 8. Accuracy wrt FG
 
 9. Performance of top 20 features
+
+====================================================================================
+
+# Features
+
+
+* **SlogP_VSA1 - SlogP_VSA12** - Sum of van der Waals surface area (in Å2) over all atoms such that SlogP is in a specified range [[1](http://www.cadaster.eu/sites/cadaster.eu/files/challenge/descr.htm)]
+
+
+* **SlogP** - Log of the octanol/water partition coefficient (including implicit hydrogens). This property is an atomic contribution model [[Crippen 1999](https://pubs.acs.org/doi/full/10.1021/ci990307l)] that calculates logP from the given structure; i.e., the correct protonation state (washed structures). Results may vary from the logP(o/w) descriptor. The training set for SlogP was ~7000 structures.
+
+
+* **fr_NH0** - Number of Tertiary amines
+
+
+* **fr_NH2** - Number of Primary amines
+
+
+* **fr_ArN** - Number of N functional groups attached to aromatics
+
+
+* **fr_aniline** - Number of anilines
+
+
+* **VSA_EState1 - VSA_EState10** MOE-type descriptors using EState indices and surface area contributions (developed at RD, not described in the CCG paper)[[2](http://www.rdkit.org/docs/GettingStartedInPython.html#list-of-available-descriptors)]
+
+
+* **E-statesindex** - Electrotopological State index for atoms in a molecule. Encode the topology and electronic environment of molecular fragments. This index combines both the electronic character and the topological environment of each skeletal atom in a molecule [[3](https://pubs.acs.org/doi/pdf/10.1021/ci00001a012),[4](https://www.researchgate.net/publication/224004106_Electrotopological_State_Atom_E-State_Index_in_Drug_Design_QSAR_Property_Prediction_and_Toxicity_Assessment),[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147309/)]
+
+
+* **HallKierAlpha** - Ratio of non-C(sp3) atom covalent radii to the covalent radius of sp3 carbon summed over all atoms in a molecule [[6](https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470125793.ch9)]
+
+
+* **Chi(1/2)n** - Atomic connectivity index (order 1/2) in the hydrogen suppressed graph .This is calculated as the sum of 1/sqrt(didj) over all bonds between heavy atoms i and j where i < j. di (number of heavy neighbors)
+
+
+* **Ipc** - information content of the coefficients of the characteristic polynomial of the adjacency matrix of a hydrogen-suppressed graph of a molecule
+
+
+* **Chi3v** - Atomic valence connectivity index (order 3). This is calculated as the sum of 1/sqrt(vivj) over all bonds between heavy atoms i and j where i < j. For a heavy atom i let vi = (pi - hi) / (Zi - pi - 1) where pi is the number of s and p valence electrons of atom i.
+
+
+* **BertzCT** - A topological index meant to quantify "complexity" of molecules. Consists of a sum of two terms, one representing the complexity of the bonding, the other representing the complexity of the distribution of heteroatoms (from graph theory)
+
+
+* **Kappa3** - Third kappa shape index: (n-1) (n-3)2 / p32 for odd n, and (n-3) (n-2)2 / p32 for even n. n denotes the number of atoms in the hydrogen suppressed graph. Also, let p2 denote the number of paths of length 2 and p3 the number of paths of length 3
+
+
+* **PEOE_VSA9** - calculated using partial using partial charges and van der waals surface area contributions of atoms
+
+
+* **labuteASA** - Water accessible surface area calculated using a radius of 1.4 A for the water molecule. A polyhedral representation is used for each atom in calculating the surface area.
+
+
+* **SMR_VSA(0-7)** - based on an approximate accessible van der Waals surface area (in Å2) and contribution to Molar Refractivity, summed over all atoms
+
+
+* **MinAbsPartialCharge** - self-explanatory
+
+
+* **MaxAbsEStateIndex** - Maximum Absolute Electrotopological State index of molecule
+
+
+* **balabanJ** - Balaban's connectivity topological index
+
+-------------------------------------------------------------------
+### References: 
+1. http://www.cadaster.eu/sites/cadaster.eu/files/challenge/descr.htm, https://www.juit.ac.in/attachments/biomin/help.html
+
+
+2. http://www.rdkit.org/docs/GettingStartedInPython.html#list-of-available-descriptors
+
+
+3. https://pubs.acs.org/doi/pdf/10.1021/ci00001a012
+
+
+4. https://www.researchgate.net/publication/224004106_Electrotopological_State_Atom_E-State_Index_in_Drug_Design_QSAR_Property_Prediction_and_Toxicity_Assessment
+
+
+5. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147309/
+
+
+6. Hall, L.H., Kier, L.B.; The Molecular Connectivity Chi Indices and Kappa Shape Indices in Structure-Property Modeling; Reviews of Computational Chemistry 2
+
+
+* [Crippen 1999] - Wildman, S.A., Crippen, G.M.; Prediction of Physiochemical Parameters by Atomic Contributions; J. Chem. Inf. Comput. Sci. 39 No. 5 (1999) 868–873
+
+
+* **Graph Descriptors** - https://github.com/rdkit/rdkit-orig/blob/master/rdkit/Chem/GraphDescriptors.py
+
+
+* **MOE** - MOE (Molecular Operating Environment) 2011 software were used to calculate about 300 molecular descriptors for each of these compounds
+
+
+* **SMR** - molar refractivity (MR), a common descriptor accounting for molecular size and polarizability (https://pubs.acs.org/doi/full/10.1021/ci990307l)
+
+* https://www.researchgate.net/figure/Molecular-descriptors-used-and-their-explanation-adapted-from-MOE-tutorial-Chemical_tbl1_225274017
+
+* **fr** - http://rdkit.org/docs/source/rdkit.Chem.Fragments.html
+
+* **BertzCT** - https://pubs.acs.org/doi/pdf/10.1021/ja00402a071
+
+* **balabanJ** - https://www.sciencedirect.com/science/article/pii/0009261482800092
