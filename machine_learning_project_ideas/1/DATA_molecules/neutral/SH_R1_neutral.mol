@@ -1,5 +1,9 @@
 SH_R1_neutral
+<<<<<<< HEAD:machine_learning_project_ideas/1/DATA_molecules/neutral/SH_R1_neutral.mol
  OpenBabel03202104243D
+=======
+ OpenBabel03162120083D
+>>>>>>> 1683eb762db609e1f35eae0d4f489b72b5586b01:machine_learning_project_ideas/1/molecules/neutral/SH_R1_neutral.mol
 
  23 25  0  0  0  0  0  0  0  0999 V2000
     2.7259   -2.1181   -0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0

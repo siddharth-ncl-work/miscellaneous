@@ -1,5 +1,9 @@
 Cl_R1_Anion
+<<<<<<< HEAD:machine_learning_project_ideas/1/DATA_molecules/anion/Cl_R1_Anion.mol
  OpenBabel03202104243D
+=======
+ OpenBabel03162120083D
+>>>>>>> 1683eb762db609e1f35eae0d4f489b72b5586b01:machine_learning_project_ideas/1/molecules/anion/Cl_R1_Anion.mol
 
  22 24  0  0  0  0  0  0  0  0999 V2000
     2.7063   -2.0972   -0.0003 Cl  0  0  0  0  0  0  0  0  0  0  0  0

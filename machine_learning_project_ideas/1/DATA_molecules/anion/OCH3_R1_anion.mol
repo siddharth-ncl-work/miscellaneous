@@ -1,5 +1,9 @@
 OCH3_R1_anion
+<<<<<<< HEAD:machine_learning_project_ideas/1/DATA_molecules/anion/OCH3_R1_anion.mol
  OpenBabel03202104243D
+=======
+ OpenBabel03162120083D
+>>>>>>> 1683eb762db609e1f35eae0d4f489b72b5586b01:machine_learning_project_ideas/1/molecules/anion/OCH3_R1_anion.mol
 
  23 25  0  0  0  0  0  0  0  0999 V2000
    -4.5389   -0.8531   -0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0

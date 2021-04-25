@@ -1,5 +1,9 @@
 OH_R237_neutral
+<<<<<<< HEAD:machine_learning_project_ideas/1/DATA_molecules/neutral/OH_R237_neutral.mol
  OpenBabel03202104243D
+=======
+ OpenBabel03162120083D
+>>>>>>> 1683eb762db609e1f35eae0d4f489b72b5586b01:machine_learning_project_ideas/1/molecules/neutral/OH_R237_neutral.mol
 
  25 27  0  0  0  0  0  0  0  0999 V2000
     4.3456   -1.5582    0.0001 O   0  0  0  0  0  0  0  0  0  0  0  0

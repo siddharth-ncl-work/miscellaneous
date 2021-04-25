@@ -1,5 +1,9 @@
 OH_R12_anion
+<<<<<<< HEAD:machine_learning_project_ideas/1/DATA_molecules/anion/OH_R12_anion.mol
  OpenBabel03202104243D
+=======
+ OpenBabel03162120083D
+>>>>>>> 1683eb762db609e1f35eae0d4f489b72b5586b01:machine_learning_project_ideas/1/molecules/anion/OH_R12_anion.mol
 
  24 26  0  0  0  0  0  0  0  0999 V2000
    -2.2480   -2.1547    0.0060 O   0  0  0  0  0  0  0  0  0  0  0  0

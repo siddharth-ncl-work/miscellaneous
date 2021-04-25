@@ -1,5 +1,9 @@
 2CH3N_R2_Anion
+<<<<<<< HEAD:machine_learning_project_ideas/1/DATA_molecules/anion/2CH3N_R2_Anion.mol
  OpenBabel03202104243D
+=======
+ OpenBabel03162120083D
+>>>>>>> 1683eb762db609e1f35eae0d4f489b72b5586b01:machine_learning_project_ideas/1/molecules/anion/2CH3N_R2_Anion.mol
 
  30 32  0  0  0  0  0  0  0  0999 V2000
     3.8539   -0.4058   -0.1018 N   0  0  0  0  0  0  0  0  0  0  0  0

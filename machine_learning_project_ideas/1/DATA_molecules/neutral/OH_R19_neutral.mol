@@ -1,5 +1,9 @@
 OH_R19_neutral
+<<<<<<< HEAD:machine_learning_project_ideas/1/DATA_molecules/neutral/OH_R19_neutral.mol
  OpenBabel03202104243D
+=======
+ OpenBabel03162120083D
+>>>>>>> 1683eb762db609e1f35eae0d4f489b72b5586b01:machine_learning_project_ideas/1/molecules/neutral/OH_R19_neutral.mol
 
  24 26  0  0  0  0  0  0  0  0999 V2000
    -2.3272    2.3861    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

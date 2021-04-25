@@ -1,5 +1,9 @@
 OH_R123678_anion
+<<<<<<< HEAD:machine_learning_project_ideas/1/DATA_molecules/anion/OH_R123678_anion.mol
  OpenBabel03202104243D
+=======
+ OpenBabel03162120083D
+>>>>>>> 1683eb762db609e1f35eae0d4f489b72b5586b01:machine_learning_project_ideas/1/molecules/anion/OH_R123678_anion.mol
 
  28 30  0  0  0  0  0  0  0  0999 V2000
     2.5640   -2.5449    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0

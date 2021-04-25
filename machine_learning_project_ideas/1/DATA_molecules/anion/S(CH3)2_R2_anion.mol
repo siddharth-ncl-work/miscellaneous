@@ -1,5 +1,9 @@
 S(CH3)2_R2_anion
+<<<<<<< HEAD:machine_learning_project_ideas/1/DATA_molecules/anion/S(CH3)2_R2_anion.mol
  OpenBabel03202104243D
+=======
+ OpenBabel03162120083D
+>>>>>>> 1683eb762db609e1f35eae0d4f489b72b5586b01:machine_learning_project_ideas/1/molecules/anion/S(CH3)2_R2_anion.mol
 
  26 28  0  0  0  0  0  0  0  0999 V2000
    -0.8684   -1.2471   -0.2136 N   0  0  0  0  0  0  0  0  0  0  0  0
