@@ -1,0 +1,7 @@
+https://gist.github.com/harv/f86690fcad94f655906ee9e37c85b174
+
+https://serverkurma.com/linux/how-to-update-glibc-newer-version-on-centos-6-x/
+
+https://stackoverflow.com/questions/58616298/install-pytorch-from-the-source-using-pip
+
+https://stackoverflow.com/questions/35616650/how-to-upgrade-glibc-from-version-2-12-to-2-14-on-centos
