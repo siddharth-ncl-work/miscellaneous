@@ -1,0 +1,11 @@
+docker run --rm -it --net=host --env="DISPLAY" --volume="$HOME/.Xauthority:/root/.Xauthority:rw" --gpus all siddharthnclwork/tf_gpu_gym
+
+docker run --rm -it --net=host --env="DISPLAY" --volume="$HOME/.Xauthority:/root/.Xauthority:rw" --gpus all tensorflow/tensorflow:latest-gpu
+
+docker run --rm -it --net=host --env="DISPLAY" --volume="$HOME/.Xauthority:/root/.Xauthority:rw" centos bash
+
+yum install  xorg-x11-server-Xorg xorg-x11-xauth xorg-x11-apps -y
+
+apt-get install x11-apps
+
+apt-get install xorg

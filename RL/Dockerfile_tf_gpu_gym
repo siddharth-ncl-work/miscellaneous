@@ -1,0 +1,12 @@
+FROM tensorflow/tensorflow:latest-gpu
+
+WORKDIR /home
+
+RUN apt-get -qq update && \
+    apt-get install -y vim wget libglu1-mesa-dev libgl1-mesa-dev libosmesa6-dev xvfb ffmpeg curl patchelf libglfw3 libglfw3-dev cmake zlib1g zlib1g-dev swig
+
+RUN pip install gym[atari,box2d]
+
+COPY *.py ./
+
+RUN mkdir video_output
