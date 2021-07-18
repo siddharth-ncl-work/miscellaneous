@@ -1,0 +1,61 @@
+Exp id,Internal Donor,Internal Donor (database ref.),Internal Donor (Properties),External Donor,External Donor (PubChem CID),External Donor (CAS Registry Number),External Donor (database ref.), Donor/AlEt3 (External Donor (Properties),Catalyst,Catalyst (Properties),Co-Catalyst,Co-Catalyst (Properties),Solvent,Solvent (Properties),Temperature,Pressure,Target Variable (eg. Selectivity),Activity (Kg/g Cat.h)
+1,,,, Dimethyldiethoxysilane (DMDES),62322,78-62-6,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60  ?C,,,5.1
+2,,,, Dimethyldiethoxysilane (DMDES),62322,78-62-7,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,9.2
+3,,,, Dimethyldiethoxysilane (DMDES),62322,78-62-8,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,8.7
+4,,,,Dimethyldiisopropenoxysilane (DMDIPS),10942923,63746-11-2,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,6.5
+5,,,,Dimethyldiisopropenoxysilane (DMDIPS),10942923,63746-11-3,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,4.5
+6,,,,Dimethyldiisopropenoxysilane (DMDIPS),10942923,63746-11-4,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,8.7
+7,,,,Diphenyldimethoxysilane (DPDMS),81284,6843-66-9,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,7.6
+8,,,,Diphenyldimethoxysilane (DPDMS),81284,6843-66-10,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,8
+9,,,,Diphenyldimethoxysilane (DPDMS),81284,6843-66-11,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,11.4
+10,,,,Diphenylsilane (DPS),6327659,775-12-2,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,10.8
+11,,,,Diphenylsilane (DPS),6327659,775-12-3,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,10.2
+12,,,,Diphenylsilane (DPS),6327659,775-12-4,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,8.7
+13,,,,Dodecyltriethoxysilan (DTES),87696,18536-91-9,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,4.2
+14,,,,Dodecyltriethoxysilan (DTES),87696,18536-91-10,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,6.1
+15,,,,Dodecyltriethoxysilan (DTES),87696,18536-91-11,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,8.3
+16,,,,Isobutyltrimethoxysilane (IBTMS),87622,18395-30-7,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,5.2
+17,,,,Isobutyltrimethoxysilane (IBTMS),87622,18395-30-8,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,10.2
+18,,,,Isobutyltrimethoxysilane (IBTMS),87622,18395-30-9,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,10.8
+19,,,,Methyldimethoxysilane (MDMS),6329250,16881-77-9,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,7.6
+20,,,,Methyldimethoxysilane (MDMS),6329250,16881-77-10,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,8
+21,,,,Methyldimethoxysilane (MDMS),6329250,16881-77-11,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,7.6
+22,,,,Methyldodecyldiethoxysilane (MDDES),108922,60317-40-0,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,2.7
+23,,,,Methyldodecyldiethoxysilane (MDDES),108922,60317-40-1,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,5.8
+24,,,,Methyldodecyldiethoxysilane (MDDES),108922,60317-40-2,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,6.2
+25,,,,Methylphenyldiethoxysilane (MPDES),69891,775-56-4,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,4.6
+26,,,,Methylphenyldiethoxysilane (MPDES),69891,775-56-5,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,5.9
+27,,,,Methylphenyldiethoxysilane (MPDES),69891,775-56-6,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,8.5
+28,,,,Methyloctyldimethoxysilane (MODMS),4178497,85712-15-8,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,5.6
+29,,,,Methyloctyldimethoxysilane (MODMS),4178497,85712-15-9,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,8.7
+30,,,,Methyloctyldimethoxysilane (MODMS),4178497,85712-15-10,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,8.3
+31,,,,Methyltriethoxysilane (MTES),16241,2031-67-6,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,3.5
+32,,,,Methyltriethoxysilane (MTES),16241,2031-67-7,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,6.3
+33,,,,Methyltriethoxysilane (MTES),16241,2031-67-8,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,9.6
+34,,,,Methyltrimethoxysilane (MTMS),14456,1185-55-3,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,1.5
+35,,,,Methyltrimethoxysilane (MTMS),14456,1185-55-4,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,4.8
+36,,,,Methyltrimethoxysilane (MTMS),14456,1185-55-5,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,8.3
+37,,,,Methyltri-p-propoxysilane (MTPS),79692,5581-66-8,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,3.8
+38,,,,Methyltri-p-propoxysilane (MTPS),79692,5581-66-9,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,5.4
+39,,,,Methyltri-p-propoxysilane (MTPS),79692,5581-66-10,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,7.5
+40,,,,Phenyltriethoxysilane (PTES),13075,780-69-8,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,6.3
+41,,,,Phenyltriethoxysilane (PTES),13075,780-69-9,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,7.1
+42,,,,Phenyltriethoxysilane (PTES),13075,780-69-10,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,7.6
+43,,,,Phenyltrimethoxysilane (PTMS),18137,2996-92-1,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,6.5
+44,,,,Phenyltrimethoxysilane (PTMS),18137,2996-92-2,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,7.6
+45,,,,Phenyltrimethoxysilane (PTMS),18137,2996-92-3,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,10.2
+46,,,,p-propyltrimethoxysilane (PRTMS),61254,1067-25-0,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,2.2
+47,,,,p-propyltrimethoxysilane (PRTMS),61254,1067-25-1,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,4.7
+48,,,,p-propyltrimethoxysilane (PRTMS),61254,1067-25-2,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,5.9
+49,,,,Triethylsilane (TES),6327258,617-86-7,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,10.8
+50,,,,Triethylsilane (TES),6327258,617-86-8,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,10.8
+51,,,,Triethylsilane (TES),6327258,617-86-9,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,9.6
+52,,,,Trimethylethoxysilane (TMES),15772,1825-62-3,,1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,4.4
+53,,,,Trimethylethoxysilane (TMES),15772,1825-62-4,,0.4,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,10.2
+54,,,,Trimethylethoxysilane (TMES),15772,1825-62-5,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,13.1
+55,,,,Trimethylethoxysilane (TMES),15772,1825-62-6,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,10.8
+56,,,,Trimethylethoxysilane (TMES),15772,1825-62-7,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,13.1
+57,,,,Trimethylethoxysilane (TMES),15772,1825-62-8,,0.025,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,10.2
+58,,,,Trimethylmethoxy silane (TMMS),15771,1825-61-2,,0.2,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,11.4
+59,,,,Trimethylmethoxy silane (TMMS),15771,1825-61-3,,0.1,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,8.7
+60,,,,Trimethylmethoxy silane (TMMS),15771,1825-61-4,,0.05,MgCl2/TiCl4/DIBP-AlEt3/ext.donor ,,AlEt3,,,,60 ?C,,,10.7
