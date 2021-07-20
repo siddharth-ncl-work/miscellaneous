@@ -1,0 +1,7 @@
+https://www.getpagespeed.com/server-setup/how-to-fix-yum-after-centos-6-went-eol
+
+Use the CentOS Vault repository:
+curl https://www.getpagespeed.com/files/centos6-eol.repo --output /etc/yum.repos.d/CentOS-Base.repo
+
+Fixing EPEL repository:
+curl https://www.getpagespeed.com/files/centos6-epel-eol.repo --output /etc/yum.repos.d/epel.repo
