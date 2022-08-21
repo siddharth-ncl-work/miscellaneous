@@ -1,0 +1,70 @@
+centos6_repo_update:
+
+So to fix the base repo, just copy the following into /etc/yum.repos.d/CentOS-Base.repo
+[C6.10-base]
+name=CentOS-6.10 - Base
+baseurl=http://linuxsoft.cern.ch/centos-vault/6.10/os/$basearch/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
+enabled=1
+metadata_expire=never
+
+[C6.10-updates]
+name=CentOS-6.10 - Updates
+baseurl=http://linuxsoft.cern.ch/centos-vault/6.10/updates/$basearch/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
+enabled=1
+metadata_expire=never
+
+[C6.10-extras]
+name=CentOS-6.10 - Extras
+baseurl=http://linuxsoft.cern.ch/centos-vault/6.10/extras/$basearch/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
+enabled=1
+metadata_expire=never
+
+[C6.10-contrib]
+name=CentOS-6.10 - Contrib
+baseurl=http://linuxsoft.cern.ch/centos-vault/6.10/contrib/$basearch/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
+enabled=0
+metadata_expire=never
+
+[C6.10-centosplus]
+name=CentOS-6.10 - CentOSPlus
+baseurl=http://linuxsoft.cern.ch/centos-vault/6.10/centosplus/$basearch/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
+enabled=0
+metadata_expire=never
+
+Then to fix the epel repo, this is the vault config to go into /etc/yum.repos.d/epel.repo
+
+[epel]
+name=Extra Packages for Enterprise Linux 6 - $basearch
+baseurl=http://mirror.math.princeton.edu/pub/fedora-archive/epel/6/$basearch
+failovermethod=priority
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-6
+
+[epel-debuginfo]
+name=Extra Packages for Enterprise Linux 6 - $basearch - Debug
+baseurl=http://mirror.math.princeton.edu/pub/fedora-archive/epel/6/$basearch/debug
+failovermethod=priority
+enabled=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-6
+gpgcheck=1
+
+Reference: https://www.mark-gilbert.co.uk/fixing-yum-repos-on-centos-6-now-its-eol/
+
+
+gblic_update:
+
+yum install glib*
+
+Reference: https://geeksterminal.com/how-to-install-glib-glibc/1392/
+
