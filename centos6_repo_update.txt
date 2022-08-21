@@ -66,5 +66,7 @@ gblic_update:
 
 yum install glib*
 
+sudo yum -y install glibc
+
 Reference: https://geeksterminal.com/how-to-install-glib-glibc/1392/
 
