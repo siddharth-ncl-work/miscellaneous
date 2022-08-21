@@ -70,3 +70,9 @@ sudo yum -y install glibc
 
 Reference: https://geeksterminal.com/how-to-install-glib-glibc/1392/
 
+
+libXp.so.6 Issue:
+
+yum install libXp.x86_64
+
+Reference: https://in.mathworks.com/matlabcentral/answers/99815-why-do-i-receive-xsetup-errors-regarding-libxp-so-6-when-installing-or-launching-matlab-on-fedora-co
